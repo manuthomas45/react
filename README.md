@@ -1,2 +1,2 @@
 # react
-starting
+starting react journey
